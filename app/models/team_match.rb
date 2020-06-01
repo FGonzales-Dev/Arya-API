@@ -1,0 +1,3 @@
+class TeamMatch < ApplicationRecord
+    
+end
